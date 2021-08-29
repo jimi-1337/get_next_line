@@ -3,7 +3,7 @@ GetNextLine.42
 
 Reads a line on a file descriptor.
 
-Return cases :
+Return cases:
 
 -1 : An error occurs : verify that you have entered good arguments (valid FD, openable file ...)
 0 : All has been read.
